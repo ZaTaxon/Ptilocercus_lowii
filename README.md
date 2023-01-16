@@ -6,4 +6,4 @@
 
 This repository contains the following file:
 
-**Ptilocercus assembled_10x coverage.fasta** -- assembled mitochondrial genome of _Ptilocercus lowii_ Gray, 1848 from from the previously published SRA datasets and complete mt cytochrome b gene 
+**Ptilocercus assembled_10x coverage.fasta** -- partly assembled mitochondrial genome of _Ptilocercus lowii_ Gray, 1848 from from the previously published SRA datasets and complete mt cytochrome b gene 
